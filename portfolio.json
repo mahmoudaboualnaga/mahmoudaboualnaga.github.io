@@ -1,0 +1,354 @@
+{
+  "profile": {
+    "name": "Mahmoud Elsayed",
+    "fullName": "Mahmoud Elsayed Aboualnaga",
+    "initials": "ME",
+    "lede": "I design plastic parts, injection molds and machines that are ready for the factory. I've also run the production lines that build them, so my drawings account for the shop floor.",
+    "status": "Open to opportunities in Egypt and abroad",
+    "location": "Based in Egypt · On-site, remote or freelance",
+    "photo": "assets/profile.jpg",
+    "cv": "",
+    "email": "mahmoudelsayed.zufs@gmail.com",
+    "phone": "+20 106 818 1002",
+    "whatsapp": "201068181002",
+    "linkedin": "https://www.linkedin.com/in/mahmoud-elsayed-aboualnaga",
+    "upwork": "https://www.upwork.com/freelancers/mahmoudaboualnaga",
+    "khamsat": "https://khamsat.com/user/mahmoud74elsayed",
+    "contactText": "Send the drawing, scan, sample photo or a short description. I'll reply with how I'd approach it, what I need from you and a realistic timeline."
+  },
+  "figures": [
+    {
+      "value": "4",
+      "unit": "+ yrs",
+      "label": "in R&D, mechanical design and production"
+    },
+    {
+      "value": "14",
+      "unit": "machines",
+      "label": "in a stalled line I brought into mass production"
+    },
+    {
+      "value": "1,500",
+      "unit": "",
+      "label": "lock cylinders produced in that line's first month"
+    },
+    {
+      "value": "100",
+      "unit": "+",
+      "label": "cavities in a single injection mold"
+    }
+  ],
+  "services": [
+    {
+      "icon": "enclosure",
+      "title": "Plastic enclosures and housings",
+      "text": "Electronics and IoT housings designed for injection molding or 3D printing, with snap fits, bosses, ribs and draft worked out before tooling.",
+      "tags": [
+        "DFM",
+        "Injection molding",
+        "3D printing",
+        "SolidWorks"
+      ]
+    },
+    {
+      "icon": "mold",
+      "title": "Injection mold design",
+      "text": "Mold design from 2-plate tools to multi-cavity molds with slides and side cores, plus follow-through on the real steel mold at the toolmaker.",
+      "tags": [
+        "Multi-cavity",
+        "Slides & side cores",
+        "Die casting",
+        "Tool trials"
+      ]
+    },
+    {
+      "icon": "scan",
+      "title": "Reverse engineering (mesh to CAD)",
+      "text": "3D scans and STL meshes rebuilt into clean, editable parametric CAD that is ready for machining, molding or modification.",
+      "tags": [
+        "Geomagic Design X",
+        "STL / scan data",
+        "Parametric CAD"
+      ]
+    },
+    {
+      "icon": "machine",
+      "title": "Machine design and scale models",
+      "text": "Mechanisms and process equipment designed from calculations to assembly, including 3D-printed working maquettes for sales and training.",
+      "tags": [
+        "Assemblies",
+        "Calculations",
+        "Moving models"
+      ]
+    }
+  ],
+  "categories": {
+    "tooling": "Tooling & molds",
+    "enclosure": "Enclosures",
+    "reverse": "Reverse engineering",
+    "production": "Production",
+    "machine": "Machines",
+    "product": "Product design"
+  },
+  "projects": [
+    {
+      "cat": "production",
+      "art": "cylinder",
+      "title": "Lock-cylinder line to mass production",
+      "text": "Took charge of a 14-machine lock-cylinder line that had stalled and brought it into mass production.",
+      "points": [
+        "About 1,500 cylinders in the first month",
+        "Set the machines, process and checks for steady output"
+      ],
+      "org": "Delta Group",
+      "year": "2022–23",
+      "process": "Machining & assembly",
+      "role": "Section head",
+      "image": ""
+    },
+    {
+      "cat": "production",
+      "art": "gauge",
+      "title": "Go/no-go gauges and assembly lines",
+      "text": "Designed go/no-go gauges for cylinder parts and built the cylinder assembly lines that fed final packing.",
+      "points": [
+        "Fast pass/fail checks for operators",
+        "Assembly flow laid out station by station"
+      ],
+      "org": "Delta Group",
+      "year": "2023",
+      "process": "Quality & assembly",
+      "role": "Design & setup",
+      "image": ""
+    },
+    {
+      "cat": "production",
+      "art": "key",
+      "title": "Anti-pick key code generator",
+      "text": "Wrote a C++ program that generates secure key bitting codes from a set of rules, so codes no longer had to be bought from outside suppliers.",
+      "points": [
+        "Rule-based code generation",
+        "Brought an expensive outsourced service in-house"
+      ],
+      "org": "Delta Group",
+      "year": "2023",
+      "process": "C++ software",
+      "role": "Author",
+      "image": ""
+    },
+    {
+      "cat": "tooling",
+      "art": "mold",
+      "title": "Appliance-scale injection molds",
+      "text": "Large molds for refrigerator parts: door, cabinet and shelf, with slides for the undercuts, followed from CAD to finished steel and molded parts.",
+      "points": [
+        "Large tools with slides",
+        "Real steel molds and molded parts"
+      ],
+      "org": "Tooling portfolio",
+      "year": "",
+      "process": "Injection molding",
+      "role": "Mold design",
+      "image": ""
+    },
+    {
+      "cat": "tooling",
+      "art": "cavities",
+      "title": "High-cavity and precision molds",
+      "text": "A heart-shaped mold with more than 100 cavities, a multi-cavity electric-rod mold with side-action cores, and a precision connector mold with core inserts.",
+      "points": [
+        "100+ cavities in one tool",
+        "Exploded-view renders for the toolmaker"
+      ],
+      "org": "Tooling portfolio",
+      "year": "",
+      "process": "Injection molding",
+      "role": "Mold design",
+      "image": ""
+    },
+    {
+      "cat": "enclosure",
+      "art": "enclosure",
+      "title": "Smart thermostat enclosure",
+      "text": "Wall-mounted thermostat housing for a US HVAC company: two circuit boards, sensor windows and full design for injection molding.",
+      "points": [
+        "Two-board internal layout",
+        "DFM for injection molding"
+      ],
+      "org": "US HVAC client (Upwork)",
+      "year": "2026",
+      "process": "Injection molding",
+      "role": "Enclosure design",
+      "image": ""
+    },
+    {
+      "cat": "reverse",
+      "art": "scan",
+      "title": "Mesh to CAD: automotive bracket",
+      "text": "Scanned parts rebuilt as parametric CAD in Geomagic Design X and SolidWorks, including a metal automotive bracket that was machined and installed in a car.",
+      "points": [
+        "Freeform and prismatic parts",
+        "CAD ready for CNC machining"
+      ],
+      "org": "Freelance",
+      "year": "",
+      "process": "Scan → CAD → CNC",
+      "role": "Reverse engineering",
+      "image": ""
+    },
+    {
+      "cat": "reverse",
+      "art": "instrument",
+      "title": "Medical instrument localization",
+      "text": "Local manufacturing of dental hand instruments: scanned each instrument, rebuilt it in CAD and designed the die to produce it. Also selected production machines.",
+      "points": [
+        "Scan, reverse engineer, design the die",
+        "Machine selection for in-house production"
+      ],
+      "org": "Medical instruments group, Cairo",
+      "year": "2025–26",
+      "process": "Forming & machining",
+      "role": "Consultant & PM",
+      "image": ""
+    },
+    {
+      "cat": "machine",
+      "art": "mill",
+      "title": "Process equipment maquettes",
+      "text": "Scaled, 3D-printed working models of pharmaceutical and powder equipment for a client: hammer mill, V-blender, oscillating granulator, cutter mill, roller compactor, flash dryer and a Scheibel column.",
+      "points": [
+        "Seven machines modeled in SolidWorks",
+        "Moving parts that work in the printed model"
+      ],
+      "org": "Client project",
+      "year": "2026",
+      "process": "3D printing",
+      "role": "Design",
+      "image": ""
+    },
+    {
+      "cat": "machine",
+      "art": "drum",
+      "title": "Modular sand-conveying bridge",
+      "text": "Mechanical design of a modular bridge that conveys sand with a rotating drum, starting from load and drive calculations, then the full SolidWorks model.",
+      "points": [
+        "Calculations first, then CAD",
+        "Modular sections for transport"
+      ],
+      "org": "Freelance client",
+      "year": "2026",
+      "process": "Steel fabrication",
+      "role": "Mechanical design",
+      "image": ""
+    },
+    {
+      "cat": "product",
+      "art": "chair",
+      "title": "Foldable and portable products",
+      "text": "My own product line: folding chairs, a folding wagon, grills and sofa-beds. I did the full design and engineering and built physical samples.",
+      "points": [
+        "Folding mechanisms and hinges",
+        "Designed for local manufacturing"
+      ],
+      "org": "Own venture",
+      "year": "",
+      "process": "Sheet metal & tube",
+      "role": "Founder, designer",
+      "image": ""
+    },
+    {
+      "cat": "machine",
+      "art": "car",
+      "title": "Formula Student race car",
+      "text": "Technical Director of the Zagazig University Formula Student team for two years, leading the engineering of a student-built race car.",
+      "points": [
+        "Led the technical team",
+        "Design reviews across all subsystems"
+      ],
+      "org": "ZUFS, Zagazig University",
+      "year": "2 seasons",
+      "process": "Automotive",
+      "role": "Technical director",
+      "image": ""
+    }
+  ],
+  "experience": [
+    {
+      "when": "Nov 2023 – Now",
+      "title": "R&D & Mechanical Design Engineer",
+      "org": "Iono Technology",
+      "points": [
+        "Product, part and tooling design from concept to manufacture",
+        "Work directly with the company owner on R&D decisions"
+      ]
+    },
+    {
+      "when": "Jun 2025 – Mar 2026",
+      "title": "Engineering Consultant & Project Manager",
+      "org": "Medical and dental instruments group, Cairo",
+      "points": [
+        "Localized manufacturing of dental hand instruments through scanning, reverse engineering and die design",
+        "Selected production machines",
+        "Led a productivity and operations overhaul of the dental lab"
+      ]
+    },
+    {
+      "when": "Oct 2022 – Oct 2023",
+      "title": "R&D & Production Engineer, Section Head (3 sections)",
+      "org": "Delta Group, door-lock accessories",
+      "points": [
+        "Brought a stalled 14-machine lock-cylinder line into mass production (about 1,500 cylinders in month one)",
+        "Designed go/no-go gauges and built cylinder assembly lines",
+        "Restored a 750,000 EGP assembly machine others had given up on",
+        "Moved into R&D once the production sections ran without me"
+      ]
+    }
+  ],
+  "also": [
+    {
+      "title": "Technical Director",
+      "text": "Zagazig University Formula Student team, 2 years"
+    },
+    {
+      "title": "SolidWorks Instructor",
+      "text": "Self-employed, teaching students and engineers"
+    },
+    {
+      "title": "Engineering, Zagazig University",
+      "text": "Graduated 2023 · Business Development diploma"
+    }
+  ],
+  "tools": [
+    {
+      "group": "Design & CAD",
+      "items": [
+        "SolidWorks (parts, assemblies, drawings)",
+        "Geomagic Design X",
+        "Design for manufacturing",
+        "Engineering drawings and tolerances"
+      ]
+    },
+    {
+      "group": "Manufacturing",
+      "items": [
+        "Injection mold design",
+        "Die casting tooling",
+        "3D printing for prototypes and models",
+        "Machining and assembly lines"
+      ]
+    },
+    {
+      "group": "Production & software",
+      "items": [
+        "Go/no-go gauges and quality checks",
+        "Line setup and troubleshooting",
+        "C++ for in-house tools",
+        "Project management"
+      ]
+    }
+  ],
+  "quote": {
+    "text": "Mahmoud's strength is that he drives with the pedal to the floor. He has no brakes.",
+    "by": "Production Manager, Delta Group, said in front of the whole factory (translated from Arabic)"
+  }
+}
