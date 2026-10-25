@@ -92,13 +92,28 @@
   },
   "projects": [
     {
+      "cat": "product",
+      "art": "gate",
+      "title": "Access-control gates",
+      "text": "Designed and developed a family of access-control gates for production: tripod turnstile, swing turnstile, full-height turnstile and car barrier gates.",
+      "points": [
+        "Concept to manufacturable design",
+        "Electromechanical integration: motors, sensors, locks"
+      ],
+      "org": "Iono Technology",
+      "year": "2024–26",
+      "process": "Sheet metal & machining",
+      "role": "R&D design",
+      "image": ""
+    },
+    {
       "cat": "production",
       "art": "cylinder",
       "title": "Lock-cylinder line to mass production",
       "text": "Took charge of a 14-machine lock-cylinder line that had stalled and brought it into mass production.",
       "points": [
-        "About 1,500 cylinders in the first month",
-        "Set the machines, process and checks for steady output"
+        "About 1,500 cylinders in the first month, then 9,000 a week",
+        "Led 50+ technicians, operators and supervisors"
       ],
       "org": "Delta Group",
       "year": "2022–23",
@@ -110,7 +125,7 @@
       "cat": "production",
       "art": "gauge",
       "title": "Go/no-go gauges and assembly lines",
-      "text": "Designed go/no-go gauges for cylinder parts and built the cylinder assembly lines that fed final packing.",
+      "text": "Designed go/no-go gauges for cylinder parts and built the cylinder assembly department: 4 manual lines plus an automatic line I brought back to life.",
       "points": [
         "Fast pass/fail checks for operators",
         "Assembly flow laid out station by station"
@@ -260,25 +275,26 @@
       "cat": "machine",
       "art": "car",
       "title": "Formula Student race car",
-      "text": "Technical Director of the Zagazig University Formula Student team for two years, leading the engineering of a student-built race car.",
+      "text": "Technical Team Leader and high board member of the Zagazig University Formula Student team for two seasons, leading the engineering of a student-built race car.",
       "points": [
-        "Led the technical team",
-        "Design reviews across all subsystems"
+        "Led the technical sub-teams: design reviews, FEA/CFD, manufacturing and assembly",
+        "Honda CBR600RR engine on a MegaSquirt 2 ECU; budgets, sponsors and FSUK registration"
       ],
       "org": "ZUFS, Zagazig University",
       "year": "2 seasons",
       "process": "Automotive",
-      "role": "Technical director",
+      "role": "Technical team leader",
       "image": ""
     }
   ],
   "experience": [
     {
-      "when": "Nov 2023 – Now",
+      "when": "Dec 2023 – Now",
       "title": "R&D & Mechanical Design Engineer",
       "org": "Iono Technology",
       "points": [
-        "Product, part and tooling design from concept to manufacture",
+        "Lead localization and development of defense-grade systems, cutting imported-component dependency by 30%",
+        "Design and develop access-control gates: tripod, swing and full-height turnstiles and car barrier gates",
         "Work directly with the company owner on R&D decisions"
       ]
     },
@@ -289,7 +305,7 @@
       "points": [
         "Localized manufacturing of dental hand instruments through scanning, reverse engineering and die design",
         "Selected production machines",
-        "Led a productivity and operations overhaul of the dental lab"
+        "Led operational excellence and digital transformation of the dental lab"
       ]
     },
     {
@@ -297,17 +313,25 @@
       "title": "R&D & Production Engineer, Section Head (3 sections)",
       "org": "Delta Group, door-lock accessories",
       "points": [
-        "Brought a stalled 14-machine lock-cylinder line into mass production (about 1,500 cylinders in month one)",
-        "Designed go/no-go gauges and built cylinder assembly lines",
-        "Restored a 750,000 EGP assembly machine others had given up on",
-        "Moved into R&D once the production sections ran without me"
+        "Brought a stalled 14-machine lock-cylinder line into mass production (about 1,500 cylinders in month one) and led 50+ staff across 3 sections",
+        "Designed go/no-go gauges and built 4 manual cylinder assembly lines",
+        "Restored a 750,000 EGP automatic assembly machine, broken since 2019 and written off by everyone",
+        "Maintained the section's machines myself; moved into R&D once the production sections ran without me"
+      ]
+    },
+    {
+      "when": "Jun 2022 – Sep 2022",
+      "title": "Technical Engineer",
+      "org": "Engineering Research & Consultation Center, Zagazig University",
+      "points": [
+        "Appointed to complete our graduation project (campus energy system) and deliver it to the university after it asked for further development of some parts"
       ]
     }
   ],
   "also": [
     {
-      "title": "Technical Director",
-      "text": "Zagazig University Formula Student team, 2 years"
+      "title": "Technical Team Leader & High Board Member",
+      "text": "Zagazig University Formula Student team, 2 seasons"
     },
     {
       "title": "SolidWorks Instructor",
@@ -315,7 +339,7 @@
     },
     {
       "title": "Engineering, Zagazig University",
-      "text": "Graduated 2023 · Business Development diploma"
+      "text": "Graduated 2023 · Business Development diploma · NPDP (New Product Development Professional) diploma in progress"
     }
   ],
   "tools": [
@@ -332,18 +356,19 @@
       "group": "Manufacturing",
       "items": [
         "Injection mold design",
-        "Die casting tooling",
-        "3D printing for prototypes and models",
-        "Machining and assembly lines"
+        "Zamak and aluminium die-casting dies (Altair Inspire Cast)",
+        "CNC, wire cut and spark EDM, turning and milling",
+        "3D printing for prototypes and models"
       ]
     },
     {
       "group": "Production & software",
       "items": [
+        "Production and people management",
+        "Process improvement, SOPs and continuous improvement",
         "Go/no-go gauges and quality checks",
-        "Line setup and troubleshooting",
-        "C++ for in-house tools",
-        "Project management"
+        "Machine maintenance and line troubleshooting",
+        "C++ for in-house tools"
       ]
     }
   ],

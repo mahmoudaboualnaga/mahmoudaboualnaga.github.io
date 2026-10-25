@@ -5,6 +5,7 @@ let PROFILE, FIGURES, SERVICES, CATEGORIES, PROJECTS, EXPERIENCE, ALSO, TOOLS, Q
    DRAWINGS (used when a project has no image)
    ============================================================ */
 const ART = {
+  gate: '<rect x="72" y="44" width="56" height="58" rx="4"/><circle cx="100" cy="44" r="8" class="r"/><path class="r" d="M100 44L152 30M100 44L50 28M100 44V12"/><path d="M20 102h160"/><path d="M32 102V54M168 102V54" stroke-dasharray="4 3"/><text x="100" y="116" text-anchor="middle">TRIPOD TURNSTILE</text>',
   cylinder: '<rect x="20" y="38" width="150" height="44" rx="4"/><circle cx="40" cy="60" r="16"/><circle cx="40" cy="60" r="7"/><g class="r"><path d="M70 38v-14M88 38v-20M106 38v-10M124 38v-18M142 38v-12"/></g><path d="M70 38v22M88 38v22M106 38v22M124 38v22M142 38v22" stroke-dasharray="3 3"/><path d="M20 96h150M20 92v8M170 92v8"/><text x="95" y="112" text-anchor="middle">CYLINDER · SECTION</text>',
   gauge: '<path d="M30 30h60v18H66v24h24v18H30z"/><path d="M110 30h60v18h-24v24h24v18h-60z"/><text x="60" y="108" text-anchor="middle">GO</text><text x="140" y="108" text-anchor="middle" class="r" fill="currentColor">NO-GO</text>',
   key: '<circle cx="40" cy="60" r="22"/><circle cx="40" cy="60" r="8"/><path d="M62 52h108v16H62"/><path class="r" d="M80 68l6 10 6-10 6 14 6-14 6 8 6-8 6 12 6-12"/><text x="120" y="38" text-anchor="middle">BITTING CODE</text>',
